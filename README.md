@@ -4,7 +4,8 @@
 - 🌱 Estou estudando JavaScript e PHP.
 
 ![nathanansantos GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanansantos&show_icons=true&theme=radical) 
-<picture> <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width = "300px"></picture>
+  <br>
+<picture> <img align="right" style="border-radius:50px;" width = "250px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"></picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanansantos&layout=compact)](https://github.com/nathanansantos/github-readme-stats)
 
