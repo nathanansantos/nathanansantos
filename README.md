@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com suporte em T.I;
 - 🌱 Estou estudando JavaScript e PHP.
 
-![nathanansantos GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanansantos&show_icons=true&theme=radical)  <picture> <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width = "350px"></picture>
+![nathanansantos GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanansantos&show_icons=true&theme=radical)  <picture> <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width = "250px"></picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanansantos&layout=compact)](https://github.com/nathanansantos/github-readme-stats)
 
