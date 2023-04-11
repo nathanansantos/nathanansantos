@@ -1,7 +1,7 @@
 ## Olá mundo! Me chamo Nathan e estou estudando programação porque sou apaixonado por essa área.
 
-- 🔭 Hoje trabalho com suporte em T.I;
-- 🌱 Estou estudando JavaScript e PHP.
+- 👨🏽‍💻 Atualmente trabalho com suporte em T.I;
+- 📖 Estou estudando JavaScript e PHP.
 
 ![nathanansantos GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanansantos&show_icons=true&theme=radical) 
   <br>
