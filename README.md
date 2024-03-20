@@ -1,4 +1,4 @@
-## Olá mundo! Me chamo Nathan e estou estudando programação porque sou apaixonado por essa área.
+## Olá mundo! Me chamo Nathan e curto muito programar.
 
 - 👨🏽‍💻 Atualmente trabalho com suporte em T.I;
 - 📖 Estudando C#.
@@ -9,9 +9,6 @@
 <div align="right">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Imagem Responsiva" style="max-width:250px; height:auto; border-radius:50px;">
 </div>
-
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanansantos&layout=compact)](https://github.com/nathanansantos/github-readme-stats)
