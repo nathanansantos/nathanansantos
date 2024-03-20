@@ -6,8 +6,9 @@
 ![nathanansantos GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanansantos&show_icons=true&theme=radical) 
   <br>
 
-<picture> <img align="right" style="border-radius:50px;" max-width = 100% height = auto src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"></picture>
-
+<div align="right">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Imagem Responsiva" style="max-width:250px; height:auto; border-radius:50px;">
+</div>
 
 
 
