@@ -5,9 +5,11 @@
 
 ![nathanansantos GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanansantos&show_icons=true&theme=radical) 
   <br>
-<p align="right">
-  <img style="border-radius:50px;" width="250px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
-</p>
+
+<div align="right">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Imagem Responsiva" style="max-width:100%; height:auto; border-radius:50px;">
+</div>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanansantos&layout=compact)](https://github.com/nathanansantos/github-readme-stats)
