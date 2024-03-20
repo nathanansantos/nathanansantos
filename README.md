@@ -6,7 +6,7 @@
 ![nathanansantos GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanansantos&show_icons=true&theme=radical) 
   <br>
 
-<picture> <img align="right" style="border-radius:50px;" width = "250px" height = "250px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"></picture>
+<picture> <img align="right" style="border-radius:50px;" width = "250px" height = "200px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"></picture>
 
 
 
