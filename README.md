@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanansantos&layout=compact)](https://github.com/nathanansantos/github-readme-stats)
 
-<div style="float: right; margin-left: 10px;">
+<div style="float: right; margin-left: 10px; align="right">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Imagem Responsiva" style="border-radius:50px; width: 250px; height: 200px;">
 </div>
 
