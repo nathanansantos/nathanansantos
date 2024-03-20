@@ -7,7 +7,7 @@
   <br>
 
 <div align="right">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Imagem Responsiva" style="max-width:150px; height:auto; border-radius:50px;">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Imagem Responsiva" style="max-width:50px; height:auto; border-radius:50px;">
 </div>
 
 
