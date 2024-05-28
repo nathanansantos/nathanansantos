@@ -1,7 +1,7 @@
 ## Olá mundo! Me chamo Nathan e curto muito programar.
 
 - 👨🏽‍💻 Atualmente trabalho com suporte em T.I;
-- 📖 Estudando C#.
+- 📖 Programando em C#.
 
 
 ![nathanansantos GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanansantos&show_icons=true&theme=radical) 
@@ -28,7 +28,7 @@
   ##
 <div> 
 <a href = "mailto:nathanansantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nathan-santos-953364231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/nathan-santos-953364231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/nathanansantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
