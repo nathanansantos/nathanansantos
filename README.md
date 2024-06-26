@@ -1,7 +1,7 @@
 ## Olá mundo! Me chamo Nathan e curto muito programar.
 
 - 👨🏽‍💻 Desenvolvedor de sistemas;
-- 🎓 Formado em técnico em informática;
+- 🎓 Formado em Técnico em Informática;
 - 📚 Cursando Análise e Desenvolvimento de Sistemas;
 
 
