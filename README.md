@@ -1,7 +1,8 @@
 ## Olá mundo! Me chamo Nathan e curto muito programar.
 
-- 👨🏽‍💻 Atualmente trabalho com suporte em T.I;
-- 📖 Programando em C#.
+- 👨🏽‍💻 Desenvolvedor de sistemas;
+- 🎓 Formado em técnico em informática;
+- 📚 Cursando Análise e Desenvolvimento de Sistemas;
 
 
 ![nathanansantos GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanansantos&show_icons=true&theme=radical) 
